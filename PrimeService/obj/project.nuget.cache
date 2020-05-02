@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WchOZnFbwt9kGkHjgon+/NOkzD0IddXtsg+XEWdW4ESytgz1W4f1g40MEKl/sfqGeLBXe2dcPChjNWoT9XBN7Q==",
+  "success": true,
+  "projectFilePath": "/Users/tharunparackal/Documents/GitHub/unit-testing-using-nunit/PrimeService/PrimeService.csproj",
+  "expectedPackageFiles": [
+    "/Users/tharunparackal/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/tharunparackal/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

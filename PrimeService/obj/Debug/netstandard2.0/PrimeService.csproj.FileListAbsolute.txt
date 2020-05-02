@@ -1,0 +1,9 @@
+/Users/tharunparackal/Documents/GitHub/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
+/Users/tharunparackal/Documents/GitHub/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
+/Users/tharunparackal/Documents/GitHub/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
+/Users/tharunparackal/Documents/GitHub/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csprojAssemblyReference.cache
+/Users/tharunparackal/Documents/GitHub/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/tharunparackal/Documents/GitHub/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
+/Users/tharunparackal/Documents/GitHub/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.cs
+/Users/tharunparackal/Documents/GitHub/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
+/Users/tharunparackal/Documents/GitHub/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb
